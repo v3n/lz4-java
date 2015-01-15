@@ -3,6 +3,7 @@ dist
 bin
 lib
 !src/build
+!src/lz4/lib
 .idea
 out
 */*.iml
